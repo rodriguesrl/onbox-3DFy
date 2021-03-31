@@ -1,33 +1,6 @@
 
 export function getMockSiteplan() {
     return {
-        "Client": {
-            "FirstName": "raphael.rodrigues.lima@gmail.com",
-            "LastName": "Rodrigues",
-            "Address": "R. Ademar C?ndido Costa, 235-347 - La Salle, Rondon?polis - MT, 78710, Brazil",
-            "SiteplanAddress": {
-                "Coordinates": {
-                    "Lat": -16.4593664,
-                    "Lng": -54.64064
-                },
-                "FullAddress": "R. Ademar C?ndido Costa, 235-347 - La Salle, Rondon?polis - MT, 78710, Brazil",
-                "Street": "Rua Ademar C?ndido Costa",
-                "StreetNumber": "235-347",
-                "Block": "La Salle",
-                "City": "Rondon?polis",
-                "State": "Mato Grosso",
-                "Country": "Brazil",
-                "PostalCode": "78710"
-            }
-        },
-        "Owner": {
-            "FirstName": "Raphael",
-            "LastName": "Rodrigues",
-            "CompanyName": "Raphael Inc",
-            "ProjectName": "3Dfy test project",
-            "Email": "raphael.rodrigues.lima@gmail.com",
-            "PhoneNumber": "66981003382"
-        },
         "Markups": [
             {
                 "Type": 3,
